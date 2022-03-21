@@ -21,15 +21,15 @@ language -english
 
 [PC vercion](#computer)
 [see more](https://annazakavova.github.io/Discover-Amazing-places-in-Japan/)
-![computer version](../libs/img-readme/computer.png)
+![computer version](https://github.com/annazakavova/Discover-Amazing-places-in-Japan/raw/main/libs/img-readme/computer.png)
 
 [tablet vercion](#tablet)
 [see more](https://annazakavova.github.io/Discover-Amazing-places-in-Japan/)
-![computer version](../libs/img-readme/tablet.png)
+![computer version](https://github.com/annazakavova/Discover-Amazing-places-in-Japan/raw/main/libs/img-readme/tablet.png)
 
 [phone vercion](#phone)
 [see more](https://annazakavova.github.io/Discover-Amazing-places-in-Japan/)
-![computer version](../libs/img-readme/phone.png)
+![computer version](https://github.com/annazakavova/Discover-Amazing-places-in-Japan/raw/main/libs/img-readme/phone.png)
 
 * __Acknowledgments__
 	YouTube channel ["Step to Web"](https://www.youtube.com/channel/UChb6d9b2c3U4-ZnUkT4h5BQ), for loyout in [Figma](https://www.figma.com/file/ClPSP7KCU1NbvxMXA914hlFk/travel-landing-page-jacobvoyles?node-id=0%3A1) and explanation of working with grids
